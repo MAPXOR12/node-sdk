@@ -1,6 +1,6 @@
 {
-    "base": "api.vcodes.xyz",
-    "hostname": "api.vcodes.xyz/v1/gateway",
+    "base": "api.tip.prembot.gq",
+    "hostname": "api.tip.prembot.gq/v1/gateway",
     "protocol": {
         "web": "https",
         "websockets": "wss"
