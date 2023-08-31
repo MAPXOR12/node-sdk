@@ -1,5 +1,5 @@
 {
-  "name": "vcodes.js",
+  "name": "tip.js",
   "version": "4.0.0",
   "description": "API Wrapper for vCodes API",
   "main": "./src/index.js",
@@ -15,7 +15,7 @@
     "wrapper",
     "vcodes.js"
   ],
-  "author": "vCodes",
+  "author": "tip",
   "license": "MIT",
   "repository": {
     "type": "web",
